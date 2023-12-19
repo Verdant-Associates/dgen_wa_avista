@@ -1,0 +1,6 @@
+{"dbname":"dgen_db",
+"user": "collin",
+"host": "va-postgresql-02.postgres.database.azure.com",
+"password": "collinpg",
+"port": 5432,
+"sslmode": "require"}
